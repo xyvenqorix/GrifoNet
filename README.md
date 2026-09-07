@@ -292,4 +292,4 @@ para conocer las condiciones completas.
 
 **Simple. Educativo. Responsable.**
 
-Desarrollado por **Rodol** · 2026
+Desarrollado por **xyvenqorix** · 2026
