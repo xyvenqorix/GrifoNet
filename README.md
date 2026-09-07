@@ -12,6 +12,7 @@
 ## 📸 Captura
 
 ![GrifoNet](captura/captura.png)
+![GrifoNet](captura/captur2.png)
 
 ---
 
