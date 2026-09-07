@@ -164,7 +164,7 @@ No es necesario instalar paquetes externos para ejecutar el archivo `.py`.
 Clona el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/xyvenqorix/GrifoNet.git
 ```
 
 Entra en la carpeta:
