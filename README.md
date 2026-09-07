@@ -237,7 +237,7 @@ No utilices GrifoNet para acceder, interferir o realizar pruebas contra sistemas
 
 **El usuario es responsable del uso que haga de la herramienta.**
 
-Consulta `LICENSE.txt` para conocer los términos completos de uso.
+Consulta `LICENSE.md` para conocer los términos completos de uso.
 
 ---
 
