@@ -6,16 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)
 ![License](https://img.shields.io/badge/License-Responsible%20Use-green?style=for-the-badge)
-
----
-
-## 📸 Captura
-
-![GrifoNet](captura/captura.png)
-![GrifoNet](captura/captura2.png)
-
----
-
 ## 🦅 ¿Qué es GrifoNet?
 
 **GrifoNet** es una herramienta sencilla de diagnóstico y análisis de redes desarrollada en **Python para Windows**.
@@ -24,7 +14,13 @@ Está diseñada principalmente para **aprendizaje, pruebas autorizadas y diagnó
 
 La herramienta utiliza funciones integradas de Windows y módulos estándar de Python, por lo que no necesita una gran cantidad de dependencias externas.
 
+
 ---
+
+## 📸 Captura
+
+![GrifoNet](captura/captura.png)
+![GrifoNet](captura/captura2.png)
 
 ## ✨ Funciones
 
