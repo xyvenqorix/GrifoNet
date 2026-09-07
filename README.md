@@ -267,7 +267,7 @@ GrifoNet/
 │
 ├── grifonet.py
 │
-├── LICENSE.txt
+├── LICENSE.md
 │
 └── README.md
 ```
@@ -281,7 +281,7 @@ GrifoNet utiliza una licencia propia de **Uso Responsable y Fines Educativos**.
 Consulta:
 
 ```text
-LICENSE.txt
+LICENSE.md
 ```
 
 para conocer las condiciones completas.
