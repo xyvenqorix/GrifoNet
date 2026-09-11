@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="./gitartwork.svg" width="100%">
+
 # 🦅 GrifoNet
 
 ### Mini Network Scanner & Network Diagnostic Tool
